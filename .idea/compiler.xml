@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="resilience4j-reatelimiter" />
+        <module name="consul-customer" />
+        <module name="consul-config" />
+        <module name="cloud-demo" />
+        <module name="resilience4j-bulkhead" />
+        <module name="zk-provider" />
+        <module name="security-oauth2-server-jwt-complex" />
+        <module name="resilience4j-ratelimiter" />
+        <module name="security-oauth2-resource-jwt" />
+        <module name="security-oauth2-resources-a" />
+        <module name="zk-customer" />
+        <module name="consul-config-server" />
+        <module name="hystrix-demo" />
+        <module name="hystrix-turbine" />
+        <module name="ribbon-customer" />
+        <module name="config-client" />
+        <module name="config-server" />
+        <module name="security-oauth2-server" />
+        <module name="eureka-client (1)" />
+        <module name="docker-plugin-erueka-server" />
+        <module name="consul-provider" />
+        <module name="eureka-client (2)" />
+        <module name="hystrix-dashboard" />
+        <module name="security-oauth2-server-jwt" />
+        <module name="zk-config-server" />
+        <module name="gateway-zuul" />
+        <module name="eureka-client-b" />
+        <module name="custom-breaker" />
+        <module name="eureka-server" />
+        <module name="resilience4j-demo" />
+        <module name="feign-customer" />
+        <module name="docker-compose-eureka-server" />
+        <module name="eureka-client" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eureka-provider" target="1.8" />
+      <module name="eureka-server-2" target="1.8" />
+      <module name="security-oauth2-jwt" target="1.8" />
+      <module name="security-oauth2-service-a" target="1.8" />
+      <module name="security-oauth2-service-jwt" target="1.8" />
+      <module name="stream-sink" target="1.8" />
+      <module name="stream-source" target="1.8" />
+      <module name="zk-config-client" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="config-client" options="-parameters" />
+      <module name="config-server" options="-parameters" />
+      <module name="consul-config" options="-parameters" />
+      <module name="consul-config-server" options="-parameters" />
+      <module name="consul-customer" options="-parameters" />
+      <module name="consul-provider" options="-parameters" />
+      <module name="custom-breaker" options="-parameters" />
+      <module name="docker-compose-eureka-server" options="-parameters" />
+      <module name="docker-plugin-erueka-server" options="-parameters" />
+      <module name="eureka-client" options="-parameters" />
+      <module name="eureka-client (1)" options="-parameters" />
+      <module name="eureka-client (2)" options="-parameters" />
+      <module name="eureka-client-b" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
+      <module name="eureka-server-2" options="-parameters" />
+      <module name="feign-customer" options="-parameters" />
+      <module name="gateway-zuul" options="-parameters" />
+      <module name="hystrix-dashboard" options="-parameters" />
+      <module name="hystrix-demo" options="-parameters" />
+      <module name="hystrix-turbine" options="-parameters" />
+      <module name="resilience4j-bulkhead" options="-parameters" />
+      <module name="resilience4j-demo" options="-parameters" />
+      <module name="resilience4j-ratelimiter" options="-parameters" />
+      <module name="resilience4j-reatelimiter" options="-parameters" />
+      <module name="ribbon-customer" options="-parameters" />
+      <module name="security-oauth2-resource-jwt" options="-parameters" />
+      <module name="security-oauth2-resources-a" options="-parameters" />
+      <module name="security-oauth2-server" options="-parameters" />
+      <module name="security-oauth2-server-jwt" options="-parameters" />
+      <module name="security-oauth2-server-jwt-complex" options="-parameters" />
+      <module name="zk-config-client" options="-parameters" />
+      <module name="zk-config-server" options="-parameters" />
+      <module name="zk-customer" options="-parameters" />
+      <module name="zk-provider" options="-parameters" />
+    </option>
+  </component>
+</project>

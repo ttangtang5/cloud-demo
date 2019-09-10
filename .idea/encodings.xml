@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consul-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consul-customer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consul-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/custom-breaker" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/docker-compose-eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/docker-plugin-erueka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-client-b" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feign-customer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hystrix-dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hystrix-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hystrix-turbine" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resilience4j-bulkhead" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resilience4j-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resilience4j-ratelimiter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ribbon-customer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security-oauth2-resource-jwt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security-oauth2-resources-a" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security-oauth2-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security-oauth2-server-jwt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security-oauth2-server-jwt-complex" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zk-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zk-customer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zk-provider" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

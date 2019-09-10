@@ -1,0 +1,2 @@
+insert into t_user values (1, 'tang', '$2a$10$XucGr5RrHvnt6VYRGsskqOkR1.6R3aj3x38LgHE6.YFgZe3mrU9V6');
+insert into login_status values ('1', 'FpLxvCFxy/tFw31IESTSMf9y0V0=', '2019-06-25 14:29:17', 1561530556931)

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-client/pom.xml" />
+        <option value="$PROJECT_DIR$/ribbon-customer/pom.xml" />
+        <option value="$PROJECT_DIR$/feign-customer/pom.xml" />
+        <option value="$PROJECT_DIR$/zk-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/zk-customer/pom.xml" />
+        <option value="$PROJECT_DIR$/consul-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/consul-customer/pom.xml" />
+        <option value="$PROJECT_DIR$/custom-breaker/pom.xml" />
+        <option value="$PROJECT_DIR$/hystrix-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/hystrix-bashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/hystrix-turbine/pom.xml" />
+        <option value="$PROJECT_DIR$/resilience4j-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/resilience4j-blukhead/pom.xml" />
+        <option value="$PROJECT_DIR$/resilience4j-reatelimiter/pom.xml" />
+        <option value="$PROJECT_DIR$/resilience4j-bulkhead/pom.xml" />
+        <option value="$PROJECT_DIR$/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/zk-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/consul-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/consul-config/pom.xml" />
+        <option value="$PROJECT_DIR$/resilience4j-ratelimiter/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/docker-compose-eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/docker-plugin-erueka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/security-oauth2-server/pom.xml" />
+        <option value="$PROJECT_DIR$/security-oauth2-resources-a/pom.xml" />
+        <option value="$PROJECT_DIR$/security-oauth2-server-jwt/pom.xml" />
+        <option value="$PROJECT_DIR$/security-oauth2-server-jwt-complex/pom.xml" />
+        <option value="$PROJECT_DIR$/security-oauth2-resource-jwt/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-client-b/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

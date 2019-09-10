@@ -1,0 +1,12 @@
+# docker-compose up  启动应用。
+#docker-compose down
+#docker-compose up -d 后台启动应用
+#docker-compose ps 查看运行的应用
+
+version: 0.0.1
+services:
+  eureka-server:  #自定义服务名称   如果存在dockerfile  镜像会以它结尾  否则镜像名为它
+    build: .   # 指定dockerfile的路径
+    ports:
+      - '8761:8761'
+
